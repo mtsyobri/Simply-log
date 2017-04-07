@@ -25,7 +25,7 @@ if ($result -> num_rows > 0) {
     	echo "<tr class=text>";
 		echo "<td>".$rows["ID"]."</td>";
 		echo "<td>".$rows["Name"]."</td>";
-		echo "<td>".$rows["Rando"]."</td>";
+		echo "<td>".$rows["test"]."</td>";
 		echo "</tr>";
 	}
 } else {
