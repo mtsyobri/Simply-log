@@ -24,11 +24,12 @@ input, label {
 	margin-left: auto;
 	margin-right: auto;
 	background-image:url(Login%20box.png);
-	background-size: width 300px height 180px;
+	background-size: 350px 230px;
 }
 
 body{
 	font-family: Arial, Helvetica, sans serif;
 	font-weight: bold;
 	color:#86AC41;
+	background-size: 100%
 }
